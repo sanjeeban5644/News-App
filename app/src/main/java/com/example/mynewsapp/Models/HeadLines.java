@@ -1,6 +1,8 @@
 package com.example.mynewsapp.Models;
 
-public class HeadLines {
+import java.io.Serializable;
+
+public class HeadLines implements Serializable {
     Source source = null;
     String author = "";
     String title = "";
