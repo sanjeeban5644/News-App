@@ -40,7 +40,7 @@
                         android:textSize="30sp"
                         android:textColor="@color/black"
                         android:textStyle="bold"
-                        android:layout_margin="5dp"
+                        android:layout_margin="10dp"
                         android:layout_marginBottom="10dp"
                         />
                     <ImageView
@@ -48,7 +48,7 @@
                         android:scaleType="fitXY"
                         android:src="@drawable/not_avail"
                         android:layout_width="match_parent"
-                        android:layout_margin="6dp"
+                        android:layout_margin="10dp"
                         android:layout_height="200dp"/>
 
 
@@ -58,7 +58,7 @@
                         android:textSize="15sp"
                         android:textStyle="bold"
                         android:textColor="#FF0000"
-                        android:layout_margin="5dp"
+                        android:layout_margin="10dp"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"/>
 
